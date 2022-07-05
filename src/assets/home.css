@@ -1,0 +1,36 @@
+.maindiv{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+.divBar{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    background-color:rgba(186, 177, 177, 0.461);
+    height: 10vh;
+    width:100vw;
+}
+.divDrink{
+    width: 100vw;
+}
+.drinkList{
+    display:flex;
+    flex-direction:column;
+}
+.drinkElement{
+    margin-top: 3vh;
+    font-family:'Montserrat';
+    text-decoration:none;
+    color: rgb(0, 0, 0);
+}
+#searchbar{
+    border: none;
+    padding: 12px;
+    font-family:'Montserrat'
+}
+#searchbarbtn{
+    border: none;
+    padding: 12px;
+    font-family:'Montserrat'
+}
