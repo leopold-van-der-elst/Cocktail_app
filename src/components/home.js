@@ -5,9 +5,9 @@ import {Link} from 'react-router-dom';
 
 export default function Home(){
 
-const [inputvalue, setInputvalue] = useState("");
-const [drink, setDrink] = useState([]);
-const [drinkunit, setDrinkunit] = useState("");
+const [inputvalue, setInputvalue] = useState("")
+const [drink, setDrink] = useState([])
+const [drinkunit, setDrinkunit] = useState("")
 
 useEffect(()=>{
     //FOCUSING THE INPUT SEARCHBAR
@@ -39,7 +39,7 @@ const getData = async ()=> {
         }
     }
     catch(error) {
-        console.log(error)
+        console.log(error);
      } 
 }
 return (
