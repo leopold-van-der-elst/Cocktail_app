@@ -1,0 +1,2 @@
+.maindiv{flex-direction:column}.divBar,.maindiv{align-items:center;display:flex}.divBar{background-color:hsla(0,6%,71%,.461);height:10vh;justify-content:center}.divBar,.divDrink{width:100vw}.drinkList{display:flex;flex-direction:column}.drinkElement{color:#000;font-family:Montserrat;margin-top:3vh;text-decoration:none}#searchbar,#searchbarbtn{border:none;font-family:Montserrat;padding:12px}
+/*# sourceMappingURL=main.b79deda4.css.map*/
